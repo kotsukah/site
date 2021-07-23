@@ -9,7 +9,7 @@ Hexoはレスポンスが高速でかつシンプルで強力なブログ構築�
 
 ## インストール方法
 
-It only takes a few minutes to set up Hexo. If you encounter a problem and can't find the solution here, please [submit a GitHub issue](https://github.com/hexojs/hexo/issues) and we'll help.
+Hexoの環境はわずか数分でインストールすることができます。もしインストール中に問題に遭遇して、このドキュメントにある情報で解決できない場合は, [GitHubでIssueを作成](https://github.com/hexojs/hexo/issues)して質問してください。私たちが問題解決の協力をします。
 
 {% youtube ARted4RniaU %}
 
